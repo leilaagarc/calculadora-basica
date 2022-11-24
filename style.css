@@ -36,6 +36,7 @@ input {
   -5px -5px 3px #C0DEED;
   background: #7BAFD4;
   outline: none;
+  cursor: pointer;
 }
 
 input:hover {
